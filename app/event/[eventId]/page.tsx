@@ -18,7 +18,7 @@ export default async function Home({ params }: Props) {
   return (
     <>
 
-<script type='text/javascript' src='//abjectjunctionlatest.com/83/c0/16/83c01600b862cfd76697f64e607767bd.js'></script>
+<script type='text/javascript' src='//pl28073517.effectivegatecpm.com/2d/f1/7b/2df17b1a5a21b171295655be0b81d13d.js'></script>
 
       <main className="flex justify-center mt-8 mb-8">
         <div className=" w-full mx-3 bg-black/10">
@@ -29,14 +29,14 @@ export default async function Home({ params }: Props) {
             dangerouslySetInnerHTML={{
               __html: `<script type="text/javascript">
 	atOptions = {
-		'key' : 'aa077d5c69bec9a758065671dc29da86',
+		'key' : 'f6c6c8ae7e3b2025e08c13ece04a0269',
 		'format' : 'iframe',
 		'height' : 60,
 		'width' : 468,
 		'params' : {}
 	};
 </script>
-<script type="text/javascript" src="//abjectjunctionlatest.com/aa077d5c69bec9a758065671dc29da86/invoke.js"></script>`,
+<script type="text/javascript" src="//www.highperformanceformat.com/f6c6c8ae7e3b2025e08c13ece04a0269/invoke.js"></script>`,
             }}
           ></div>
 
@@ -61,14 +61,14 @@ export default async function Home({ params }: Props) {
                 dangerouslySetInnerHTML={{
                   __html: `<script type="text/javascript">
 	atOptions = {
-		'key' : 'ba588e392a11185b6bd780245516695f',
+		'key' : 'accfb6d98cffaddfefa4294c6bcc4535',
 		'format' : 'iframe',
 		'height' : 50,
 		'width' : 320,
 		'params' : {}
 	};
 </script>
-<script type="text/javascript" src="//abjectjunctionlatest.com/ba588e392a11185b6bd780245516695f/invoke.js"></script>`,
+<script type="text/javascript" src="//www.highperformanceformat.com/accfb6d98cffaddfefa4294c6bcc4535/invoke.js"></script>`,
                 }}
               ></div>
             </div>
@@ -81,14 +81,14 @@ export default async function Home({ params }: Props) {
                 dangerouslySetInnerHTML={{
                   __html: `<script type="text/javascript">
 	atOptions = {
-		'key' : 'f15a42546258a6e6a463e57e82ce2a04',
+		'key' : '319d1c82241fbbc239aadac8467dac1a',
 		'format' : 'iframe',
 		'height' : 250,
 		'width' : 300,
 		'params' : {}
 	};
 </script>
-<script type="text/javascript" src="//abjectjunctionlatest.com/f15a42546258a6e6a463e57e82ce2a04/invoke.js"></script>`,
+<script type="text/javascript" src="//www.highperformanceformat.com/319d1c82241fbbc239aadac8467dac1a/invoke.js"></script>`,
                 }}
               ></div>
 
@@ -98,14 +98,14 @@ export default async function Home({ params }: Props) {
                 dangerouslySetInnerHTML={{
                   __html: `<script type="text/javascript">
 	atOptions = {
-		'key' : '34468b36353f4462a91f2bfd2c91aedd',
+		'key' : '31c504c540b3f242141e69d6b74b88e8',
 		'format' : 'iframe',
 		'height' : 300,
 		'width' : 160,
 		'params' : {}
 	};
 </script>
-<script type="text/javascript" src="//abjectjunctionlatest.com/34468b36353f4462a91f2bfd2c91aedd/invoke.js"></script>`,
+<script type="text/javascript" src="//www.highperformanceformat.com/31c504c540b3f242141e69d6b74b88e8/invoke.js"></script>`,
                 }}
               ></div>
             </div>
