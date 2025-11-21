@@ -1,5 +1,8 @@
 export const runtime = "edge";
 
+import Script from "next/script";
+
+
 type Props = {
   params: Promise<{ eventId: string }>;
 };
@@ -18,7 +21,7 @@ export default async function Home({ params }: Props) {
   return (
     <>
 
-<script type='text/javascript' src='//pl28073517.effectivegatecpm.com/2d/f1/7b/2df17b1a5a21b171295655be0b81d13d.js'></script>
+<Script src='//inclinedallusionnearby.com/a0/21/81/a021811a4378572c98fba32597aa0f23.js' strategy="afterInteractive"></Script>
 
       <main className="flex justify-center mt-8 mb-8">
         <div className=" w-full mx-3 bg-black/10">
@@ -29,14 +32,14 @@ export default async function Home({ params }: Props) {
             dangerouslySetInnerHTML={{
               __html: `<script type="text/javascript">
 	atOptions = {
-		'key' : 'f6c6c8ae7e3b2025e08c13ece04a0269',
+		'key' : '53b287cb80d56771a860f84a392b474a',
 		'format' : 'iframe',
-		'height' : 60,
-		'width' : 468,
+		'height' : 90,
+		'width' : 728,
 		'params' : {}
 	};
 </script>
-<script type="text/javascript" src="//www.highperformanceformat.com/f6c6c8ae7e3b2025e08c13ece04a0269/invoke.js"></script>`,
+<script type="text/javascript" src="//inclinedallusionnearby.com/53b287cb80d56771a860f84a392b474a/invoke.js"></script>`,
             }}
           ></div>
 
@@ -61,14 +64,14 @@ export default async function Home({ params }: Props) {
                 dangerouslySetInnerHTML={{
                   __html: `<script type="text/javascript">
 	atOptions = {
-		'key' : 'accfb6d98cffaddfefa4294c6bcc4535',
+		'key' : 'efd1cc29051ff0b795c8a4d089b1a4d2',
 		'format' : 'iframe',
 		'height' : 50,
 		'width' : 320,
 		'params' : {}
 	};
 </script>
-<script type="text/javascript" src="//www.highperformanceformat.com/accfb6d98cffaddfefa4294c6bcc4535/invoke.js"></script>`,
+<script type="text/javascript" src="//inclinedallusionnearby.com/efd1cc29051ff0b795c8a4d089b1a4d2/invoke.js"></script>`,
                 }}
               ></div>
             </div>
@@ -81,14 +84,14 @@ export default async function Home({ params }: Props) {
                 dangerouslySetInnerHTML={{
                   __html: `<script type="text/javascript">
 	atOptions = {
-		'key' : '319d1c82241fbbc239aadac8467dac1a',
+		'key' : '96a4536e93a6baa5450e450515cd32bb',
 		'format' : 'iframe',
 		'height' : 250,
 		'width' : 300,
 		'params' : {}
 	};
 </script>
-<script type="text/javascript" src="//www.highperformanceformat.com/319d1c82241fbbc239aadac8467dac1a/invoke.js"></script>`,
+<script type="text/javascript" src="//inclinedallusionnearby.com/96a4536e93a6baa5450e450515cd32bb/invoke.js"></script>`,
                 }}
               ></div>
 
@@ -98,14 +101,14 @@ export default async function Home({ params }: Props) {
                 dangerouslySetInnerHTML={{
                   __html: `<script type="text/javascript">
 	atOptions = {
-		'key' : '31c504c540b3f242141e69d6b74b88e8',
+		'key' : '432b7a65cedb894df8619ddde6ceb08d',
 		'format' : 'iframe',
 		'height' : 300,
 		'width' : 160,
 		'params' : {}
 	};
 </script>
-<script type="text/javascript" src="//www.highperformanceformat.com/31c504c540b3f242141e69d6b74b88e8/invoke.js"></script>`,
+<script type="text/javascript" src="//inclinedallusionnearby.com/432b7a65cedb894df8619ddde6ceb08d/invoke.js"></script>`,
                 }}
               ></div>
             </div>
