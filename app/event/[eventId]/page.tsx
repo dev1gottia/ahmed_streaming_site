@@ -21,8 +21,6 @@ export default async function Home({ params }: Props) {
   return (
     <>
 
-<Script src='//inclinedallusionnearby.com/a0/21/81/a021811a4378572c98fba32597aa0f23.js' strategy="afterInteractive"></Script>
-
       <main className="flex justify-center mt-8 mb-8">
         <div className=" w-full mx-3 bg-black/10">
           <div
