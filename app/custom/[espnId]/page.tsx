@@ -7,7 +7,7 @@ type Props = {
 export default async function Home({ params }: Props) {
   const espnId = (await params).espnId;
 
-  const API = "https://api.v3.quest/api/v1/all-events"
+  const API = "https://panel.nhlbite.cc/api/v1/all-events"
 
   const res = await fetch(API, {
     next: { revalidate: 60 },
