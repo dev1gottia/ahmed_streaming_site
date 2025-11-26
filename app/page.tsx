@@ -3,7 +3,7 @@ export const runtime = 'edge'
 import Link from "next/link";
 
 export default async function Home() {
-  const API = "https://api.v3.quest/api/v1/all-events"
+  const API = "https://panel.nhlbite.cc/api/v1/all-events"
   const ACCENT_COLOR = "blue-600";
 
   const res = await fetch(API, {
